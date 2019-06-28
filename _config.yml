@@ -1,0 +1,25 @@
+title: Bannatyne MS Project
+email: lucy.hinnie@usask.ca
+description: >-
+  This website provides information and updates for the ongoing Bannatyne MS project.
+baseurl: "/BannatyneMS"
+url: "localhost:4000"
+twitter_username: BannatyneMS
+github_username:  yclepit
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

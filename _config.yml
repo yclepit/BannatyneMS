@@ -2,7 +2,7 @@ title: Bannatyne MS Project
 email: lucy.hinnie@usask.ca
 description: >-
   This website provides information and updates for the ongoing Bannatyne MS project.
-baseurl: "/BannatyneMS"
+baseurl:
 url: "http://bannatyne.org"
 twitter_username: BannatyneMS
 github_username:  yclepit

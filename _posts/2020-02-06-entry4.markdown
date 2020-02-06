@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Bannatyne in the Roaring Twenties"
+date:   2020-02-06 12:00:00 -0600
+categories: bannatyne project
+---
+The Bannatyne Project is now a year old. I am delighted with the progress we have made in 2019. These next few months are shaping up to busy, with much to do in terms of getting our content in shape ready for online publication. In the last year the project has grown in a very pleasing way: for me this has been undergoing a crash course in utilising GitHub for website publication, attendance at [DHSI](dhsi.org) and perhaps most pleasant of all, working with Tiana Kirstein to support her exemplary and thorough transcription of our manuscript material. I have been lucky to meet a number of enthusiastic, inspiring and open-minded scholars who have supported this process.
+
+This year hold a number of conferences, including a return to [DHSI](dhsi.org) and a trip to Philadeplhia for the [Renaissance Society of America](https://www.rsa.org) Annual Meeting. In summer, the project will be hitting the road for the [ICMRSLL](https://training.ua.edu/icmrsll/) at the [University of Alabama](https://training.ua.edu/index.php). This is an exciting conference that happens once every three years - my very first academic conference was the 2011 ICMRSLL in Padua, Italy. It's hard to believe that was 9 years ago.
+
+Of most recent note for the project is the publication of an article in the most recent issue of the [International Review of Scottish Studies](https://www.irss.uoguelph.ca/index.php/irss/issue/view/394), based at the University of Guelph. This publication builds on the presentation I gave at the [University of Glasgow Textual Editing Lab](https://www.gla.ac.uk/researchinstitutes/artslab/labsandthemes/ourlabs/textualediting/) in October 2019.
+
+Beyond the Bannatyne, some very exciting things are happening at my current host institution, the [University of Saskatchewan](https://www.usask.ca). Late last year the new [Digital Research Centre](https://library.usask.ca/drc/#WhatWeDo) opened in the Main Library - it is a fantastic new resource for all students, and I feel very lucky to be surrounded and supported by the fantastic staff there. You may also have seen in the news updates about the [Canterbury Tales](https://news.usask.ca/articles/research/2020/canterbury-tales-is-first-major-literary-work-developed-as-an-app.php) app - friend to the project, Professor Peter Robinson has released this free app on Android and iOS, which showcases much of the excellent and forward-thinking digitsation he has been working on tirelessly for the last 25 years. I recommend checking it out!
+
+LH

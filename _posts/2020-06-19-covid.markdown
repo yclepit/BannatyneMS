@@ -1,0 +1,121 @@
+---
+layout: post
+title:  "Bannatyne In The Time of Coronavirus"
+date:   2020-06-22 01:00:00 -0600
+categories: bannatyne project
+---
+**Introduction**
+
+*Use derth, O lord, or seiknes and hungir soir  
+And slak thy plaig that is so penetryfe.  
+The pepill ar perreist quha may remeid thairfoir.  
+Bot thow, O lord, that for thame lost thy lyfe.*  
+
+[Robert Henryson, Ane Prayer for the Pest, ll. 25-28][^fn1]
+
+Tuesday, April the 7th 2020 was a momentous day in my research. It was not a day in which any new breakthroughs were made on my part, or that any project milestones were reached. It was, however, the day that my partner awoke me with the news that 'your thing has gone viral!’. What he was referring to was an article by Natasha Ishak – ‘Plague-Era Poetry Collection Contains One Of The First Known Uses Of The F-Word’.[^fn2]  Ishak was, of course, discussing the Bannatyne Manuscript (c. 1568) the largest extant anthology of Older Scots verse, compiled by George Bannatyne ‘in tyme of pest’.
+
+The recent advancing of the Covid-19 pandemic had given rise to a slew of plague related literary content. Countless articles appeared discussing Shakespeare ‘in lockdown’ and the writing of King Lear. Writers focussed on the 1606 outbreak of plague in Stratford-Upon-Avon, discussing the probability of Shakespeare’s productivity during the resultant closure of the Globe. Within days, academics on social media decried this focus on Shakespeare and denounced the stringent focus on productivity in a time of great uncertainty.
+
+To me, Shakespeare is not the lockdown parable that could benefit us most, nor is the focus on expletives in the Bannatyne Manuscript itself: to me, there is immense value in considering the work of George Bannatyne in the context of plague literature, and the preservation of a national canon under a backdrop of trauma.
+
+We have found ourselves in a very unusual, and dare I say, *unprecedented* situation. Since early 2020, Covid-19 has ravaged countries around the world and on the 23rd of March, the United Kingdom was put into a state of lockdown, the likes of which had never been seen before. Or had they?
+
+In preparing the Bannatyne manuscript’s fourth section as a digital edition, I have undertaken much research into the figure of Bannatyne himself. A huge part of the Bannatyne mythos is, of course, the collation of the manuscript ‘in tyme of pest’, the idea that Bannatyne compiled the manuscript as a whole during a period of three month isolation in the plague of 1568. In order to establish the connection between Bannatyne’s experience and my own, I wish to examine the historical context in which Bannatyne was operating; the nature of ‘solace’ in times of strife and the necessity of the preservation and consumption of art. It is my hope that in considering these factors, that a necessary parallel will come to light between George Bannatyne’s work, and the emergent digitisation. The increasing pressure for institutions to turn towards remote learning and virtual teaching experiences highlights also the ways in which the plague of 1568 and the Covid-19 epidemic place a sense of responsibility upon their respective curators.
+
+**Historical Context**
+
+Looking at the situation in Edinburgh in 1568 offers an unusual and intriguing parallel to 2020. The Encyclopedia of Plague and Pestilence, George C. Kohn describes the outbreak as:
+
+*‘Second serious outbreak of bubonic plague to afflict Edinburgh, Scotland, in the 16th century. Spanning two plague seasons, from September to December 1568 and from spring 1569 to autumn 1569, this epidemic may have claimed 10 percent of Edinburgh's estimated population of 25,000.’*[^fn3]
+
+Measures taken to address the plague were not as lacking as one may suspect of the early modern period. Alexander Hamilton Howe’s Theoretical Enquiry notes ‘Edinburgh had a severe visitation of the plague in October, 1568, when the magistrates issued orders to prevent it spreading. Those infected seem to have been sent to an isolated placed called the Muir, probably the Burgh Muir to the south of the city [...]’.[^fn4]  Kohn offers further clarity, describing ‘strictly enforced regulations’ with isolation huts outside of the city walls, intensive cleaning of suspected infected houses and the cleaning of clothing ‘in a special caldron [sic] from which nothing could be removed upon pain of death’.  Graves were dug seven feet deep in order to bury the dead (a strong comparison to the shallow graves of England) but as Kohn points out, none of this was of any consequence, as the disease spread through the bites of fleas found on common rats, a ubiquitous feature of any urban centre.[^fn5]
+
+In an article considering the history of the plague in Edinburgh, W.J. MacLennan does not describe the 1568 outbreak specifically, but much can be garnered through his description of the earlier plague outbreak in 1530 and the later restrictions in 1574. MacLennan also notes a number of sentences imposed during the 1530 outbreak for failure to comply with outbreak containment advice, ranging from the branding and banishment of Isobel Catall (‘for failing to report that her daughter was sick’) and the drowning of Katryn Heriot for the assiduous claim that she ‘brought the plague into Edinburgh’ as well as stealing two rolls of buckram.[^fn6]  Aside from the stinging rebuke to women that echoes throughout these punishments, it is clear that the plague was taken seriously by the citizens of Edinburgh, and that measures were put in place to prevent the spread, despite the necessarily limited scientific knowledge about its cause.
+
+In terms of the scientific research surrounding the disease, the year 1568 is also the year in which the first vernacular Scottish medical text was published. Written by Gilbert Skeyne, *ane breve descriptioun of the pest quhair in the causis, signis and sum speciall preservatioun and cure thairof ar contenit* deals with standard views of the plague at this time, citing it as a punishment from God and advocating herbal remedies, looking also to classical accounts of such events. As Kohn states, ‘[it] was largely a reiteration of theories and advice that had been circulating for centuries, but it offered an interesting and important eyewitness account of the deplorably unsanitary conditions of Edinburgh’.[^fn7]  Certainly, Skeyne offers a vivid picture of life within the city in describing what he sees as the secondary causes of the plague, after god’s will.
+
+*Inferiour caufis ar quhilkis occupeis ane Realme, ane people, ane Citie, or ane houfe thairof. Caufe thairof is ftandand vatter, fie as Stank, Pule, or Loch mofte corrupte, and filthie: Erd, dung, ftinkand Clofettis, deid Cariounis vnbureit in fpeciale of inankynd quhilkis be fimilitude of nature is maift nocent to man, as euerie brutall is maift infeftand and Peftilentiall to thair awin kynd. Forther continuall fchouris of Veit with greit fowthin wynde, or the famin blawand from peftiferous placis. The caufe of peft in ane privat Citie is ftinkand corruptioun and filth, quhilkis occupeis the commune ftreittis and gaittis, greit reik of colis without vinde to difpache the fam, corruptioun of Herbis, fie as Caill and growand Treis, Moift heuie fauer of Lynt, Hemp, & Ledder fteipit in Vater.* [^fn8]
+
+[Translation][^fn9]
+
+
+What life was like for George Bannatyne specifically at this time is largely unknown. It is reasonable to assume that he was ensconced in a family estate outside of the city, though no clear historical evidence is available to confirm or deny this. What is certain is that Bannatyne clung dearly to the plague narrative, framing his work as the result of the imposed isolation and a project borne of this tribulation.[^fn10]
+
+
+**Preservation**
+
+A noble incitement to preservation is the focus of Sir Walter Scott’s veneration of Bannatyne himself, a man who ‘had the courageous energy to form and execute the plan of saving the literature of a whole nation’. [^fn11] This concept of preservation and curation permeates much understanding of the manuscript and its legacy, yet perhaps it relies too much upon the idea that Bannatyne was aware of the importance of his own act, and the textual afterlife it would enjoy.
+
+The intentionality of Bannatyne’s praxis comes under scrutiny when considering the potential audience for a scribal manuscript in the 1560s, particularly on the advent of the printing press. Intriguing, MacDonald has also argued for the Bannatyne as a printed book that never came to fruition, lending some credence to the idea of preservation.[^fn12] What complicates this somewhat, is the simple fact that the manuscript was never printed under Bannatyne’s eye, and indeed, was not printed in any form at all until the 1700s. It seems likely that once the threat of plague had diminished, Bannatyne’s attentions turned elsewhere.
+
+I do not believe that the Bannatyne manuscript is a static historical artefact. I believe that what the Bannatyne shows us is a recognisable process, not just of editing practice and curation, but of the ways in which times of trauma and catastrophe catalyse artistic and literary production in pointed and significant ways. Whether or not Bannatyne really compiled his work in three months in 1568, he drew upon the plague context as a motivation and endowment of meaning for his project. There is a distinctive element of solace in both the manuscript’s context and its content, but before considering the nature of solace both then and now, the question of preservation and access persists in parallels with 2020.
+
+What can Bannatyne’s process and output teach us, in 2020, about the crucible of a pandemic? We are faced with a hard truth: since 1568, little has changed, and the question of access, true, unmitigated and democratic access to knowledge and texts is still not prioritised. It has, once again, taken a tragedy of epic proportions to focus our attention on the question of access to knowledge, and the facilitation of learning for all. In digitising the Bannatyne itself, we bring these troubling parallels into sharp relief, working once again to save the literature that Bannatyne privileged above others, with a view to finishing the job he started, this time with a serious focus on robust scholarship, durability and accessibility. Covid-19 has underwritten the importance of this act, exemplifying the need for primary sources that are not locked away in physical repositories inaccessible to students.
+
+**Solace**
+
+Beyond the more cynical prospect of preservation, there is also an argument for the act of collation as the embodiment of a search for solace. As the restrictions of Covid-19 spread across the world, endless think-pieces were published regarding methods of soothing oneself in enforced isolation. Translating this to Bannatyne’s time, it is unsurprising that Bannatyne chose to work on the completion of his manuscript in such a time. Clearly a well-read and well-educated man, his access to the texts reproduced in his manuscript is evident, and as Kindle purchases soar in 2020, it is reasonable to assume that so too did a fascination with literature and its capacity for comfort come into focus in 1568.
+
+The need for control in uncertain times could find no better outlet, perhaps, than the reproduction of established and enjoyed verse. The categorisation of the manuscript is one of its key features and the third section in this instance comes into focus, entitled ‘Ballettis Mirry, And Uther Solatius Consaittis, Set Furth Be Divers Ancient Poyettis’.[fn13] There is much to unpack from this title alone. The search for humour, the ‘mirry’ in times of strife is human nature, and the idea of something ‘solatius’ draws to our attention the deep-rooted desire for solace in uncertain times. The reference to ‘Ancient Poyettis’ is curious - most of the content in the third section is far from classical, yet Bannatyne’s compunction to refer to the past and to the ways in which a time of unrest forces us to self-examine in relation to that which has gone before. In this section, more so than any other in the manuscript, I believe the nature of the manuscript as a product of ‘pest’ becomes plain.
+
+**The Project**
+
+I am currently sitting at my desk, in my apartment, a position I assume most days. Mornings are spent on academic administration tasks, and each afternoon in June I turn my attention to inputting as many poems as possible into the TEI framework I have adopted for this project. Due to the pandemic, and the repercussions for cancelled internships, academic teaching preparation and access to materials, I have lost around two months of project time. In amidst all the confusion and uncertainty of the pandemic, I think often about what Bannatyne must have felt in his own curation process.
+
+His physical labour was certainly more pronounced than mine: where Bannatyne was working with parchment, ink and nib, I am hunched over a screen, encoding text using a keyboard, with little material interaction with source texts. As I encode, I read each poem for oddities and patterns. Some have come to light that may only have done so through this concentrated process of replication. I am also starting to notice patterns as to where Bannatyne himself may have been tired or frustrated: just as my encoding suffers when I am overly tired or have not rested, so too does Bannatyne’s scribal practice feature certain poems with more blots, errors and stains, relatively speaking, than others.
+
+**Conclusion**
+
+We are emerging from the other side of this crisis. In Saskatchewan, we are a far cry from the closures and isolation of mid-March. Businesses reopen, people are walking by the river and gathering in groups. But the masks remain, in many cases, as a stark reminder of what has been experience and what may yet come to pass again. Did Bannatyne feel this dread, I wonder, when returning to Edinburgh after his three-month sojourn? The project of digitising his work has become both more pertinent and yet curiously liminal. How do we justify attention to the arts and the humanities in such a time as now? Where then, sits the Bannatyne, an early-modern curio that speaks of times long past?
+
+It sits with our decision to go on, to keep learning and keep examining both the world around us and our response to it. In digitising and accessing the manuscript, we invite the same consideration that Bannatyne did in his third section: to look to the past for solace, to find human connection in previously unthought places, and to foster a sense of light in the dark, of comfort in unrest. The pressure on the field of digital humanities to create and reinforce learning frameworks at this juncture is huge. Unlike some versions of an imagined George Bannatyne, I am certain of the motivation for this project. It is a project that exists to provide academic material and, I hope, solace for future generations of scholarship.
+
+This pandemic has been an uncanny and unsettling parallel to share with Bannatyne, and yet I feel my understanding of his process and my own project has deepened. I turn my thoughts to Henryson’s ‘Pest’, another century removed from Bannatyne, and the importance of a broad education therein.
+
+*This questioun quha can obsolve, lat see,  
+Quhat phisnamour or perfyt palmester:  
+Quha was farest or fowlest of us thre  
+Or quhilk of us of kin was gentillar  
+Or maist expert in science or in lare,  
+In art musik or in astronomye?  
+Heir still sould ly your study and repair  
+And think as thus all your heidis mon be.*  
+
+[Robert Henryson, Ane Prayer for the Pest, ll. 41-48][^fn14]
+
+
+**Works Cited**
+
+* Henryson, Robert, ‘“Ane Prayer for the Pest”’, in *Robert Henryson, The Complete Works*, ed. by David Parkinson (Kalamazoo: Medieval Institute Publications, 2010) <http://www.lib.rochester.edu/camelot/teams/pdrhtcf.htm>
+
+* Howe, Alexander Hamilton, *A Theoretical Enquiry Into The Physical Causes of Epidemic Diseases* (London: John Churchill & Sons, 1865)
+
+* Ishak, Natasha, ‘Plague-Era Poetry Collection Contains One Of The First Known Uses Of The F-Word’, *All That’s Interesting*, 2020 <https://allthatsinteresting.com/bannatyne-manuscript-f-word> [accessed 15 June 2020]
+
+* Kohn, George Childs, ‘Edinburgh Plague of 1568-69’, *Encyclopedia of Plague and Pestilence: From Ancient Times to the Present* (New York: Infobase Publishing, 2008), pp. 93–94
+
+* MacLennan, W. J., ‘The Eleven Plagues of Edinburgh’, *Proceedings of the Royal College of Physicians of Edinburgh*, 31 (2001), 256–61
+
+* Ritchie, W. Tod, ed., *The Bannatyne Manuscript Writtin in Tyme of Pest 1568*, STS 2nd Ser. 22, 23, 26; 3rd Ser. 5, 4 vols (Edinburgh: Scottish Text Society, 1928)
+
+* Scott, Walter, and David Laing, *Memorials of George Bannatyne, 1545-1608* (Edinburgh: Bannatyne Club, 1829)
+
+* Skeyne, Gilbert, Tracts by Dr. Gilbert Skeyne, *Medicinar to His Majesty, ed. by William Forbes Skene* (Edinburgh: Bannatyne Club, 1860)
+
+**Notes**
+
+[^fn1]:Robert Henryson, ‘“Ane Prayer for the Pest”’, in *Robert Henryson, The Complete Works*, ed. by David Parkinson (Kalamazoo: Medieval Institute Publications, 2010) <http://www.lib.rochester.edu/camelot/teams/pdrhtcf.htm>.
+[^fn2]:Natasha Ishak, ‘Plague-Era Poetry Collection Contains One Of The First Known Uses Of The F-Word’, All That’s Interesting, 2020 <https://allthatsinteresting.com/bannatyne-manuscript-f-word> [accessed 15 June 2020].
+[^fn3]:Kohn, George Childs, ‘Edinburgh Plague of 1568-69’, *Encyclopedia of Plague and Pestilence: From Ancient Times to the Present* (New York: Infobase Publishing, 2008), pp. 93–94.
+[^fn4]:Howe, Alexander Hamilton, *A Theoretical Enquiry Into The Physical Causes of Epidemic Diseases* (London: John Churchill & Sons, 1865) p. 124.
+[^fn5]:Kohn, p. 93.
+[^fn6]:MacLennan, W. J., ‘The Eleven Plagues of Edinburgh’, *Proceedings of the Royal College of Physicians of Edinburgh*, 31 (2001), p. 257.
+[^fn7]:Kohn, p.94.
+[^fn8]:Skeyne, Gilbert, *Tracts by Dr. Gilbert Skeyne, Medicinar to His Majesty*, ed. by William Forbes Skene (Edinburgh: Bannatyne Club, 1860).
+[^fn9]:*Inferior causes are [those] which occupy a realm, a people, a city, or a house thereof. [The] cause thereof is standing water, such as pond, pool or loch most corrupt, and filthy: earth, dung, stinking privies, dead bodies unburied, especially of the kind who by the similitude of nature is most injurous to man, as every brutal creature is most infectious and pestilential to their own kind. Further continual showers of moisture with great southerly winds, or the same blowing from disease-ridden places. The cause of pest in a private [walled] city is stinking corruption and filth, which occupies the common streets and gates, great reek of bile without wind to dispatch the same, corruption of herbs, vegetables such as cabbage and also newly sprouted trees, and damp thick stench of flax, hemp and leather steeped in water.* [My thanks to David Parkinson for his guidance on 'stinkand'  translation]
+[^fn10]:One of the most comprehensive analyses of Bannatyne’s timing comes in Alasdair A. MacDonald’s 1996 article ’The Bannatyne Manuscript - A Marian Anthology’.  Drawing evidence from the so-called ‘Draft Manuscript’ and instances of scribal marginalia, MacDonald, in dialogue with the work of Denton Fox, suggests a longer gestation period for the manuscript. Considering also the work of Ringler, MacDonald draws a conclusion that the manuscript is ‘the result of a complicated process of assembly […] which later had to make fascinatingly devious accommodations to the deteriorating political and religious climate of the last two years of Mary’s reign’ [44]. See Macdonald, Alasdair A., ‘The Bannatyne Manuscript: A Marian Anthology’, *Innes Review*, 37 (1986), 36–47.
+[^fn11]:Scott, Walter, and David Laing, *Memorials of George Bannatyne, 1545-1608* (Edinburgh: Bannatyne Club, 1829), p. 11.
+[^fn12]:See Alasdair A. MacDonald, ‘The Printed Book That Never Was: George Bannatyne’s Poetic Anthology (1568)’, in *Boeken in de Late Middeleeuwen*, by Jos. M. M. Hermans and Klaas van der Hoek (Groningen: Egbert Forsten, 1993).
+[^fn13]:The Bannatyne Manuscript: Writtin in Tyme of Pest, ed. by W Tod Ritchie, Scottish Text Society, IV vols (Edinburgh: William Blackwood and Sons Ltd., 1928).
+[^fn14]: Henryson, Parkinson ed. <http://www.lib.rochester.edu/camelot/teams/pdrhtcf.htm>.
